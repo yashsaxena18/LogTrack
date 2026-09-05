@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,state,capacity,status
+W001,Noida Distribution Hub,Noida,Uttar Pradesh,8000,active
+W002,Delhi Central Hub,Delhi,Delhi,12000,active
+W003,Lucknow Distribution Hub,Lucknow,Uttar Pradesh,10000,active
+W004,Jaipur Distribution Hub,Jaipur,Rajasthan,10000,active
+W005,Gurugram Fulfillment Center,Gurugram,Haryana,8000,active
+W006,Mumbai Distribution Hub,Mumbai,Maharashtra,8000,active
+W007,Pune Distribution Hub,Pune,Maharashtra,10000,active
+W008,Bengaluru Central Hub,Bengaluru,Karnataka,15000,active
+W009,Kolkata Distribution Hub,Kolkata,West Bengal,12000,active
+W010,Hyderabad Central Hub,Hyderabad,Telangana,10000,active

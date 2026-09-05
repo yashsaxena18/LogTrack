@@ -1,0 +1,101 @@
+customer_id,name,email,phone,city,state,country,created_at
+C001,Neha Sharma,neha_sharma1@example.com,9846913810,Chandigarh,Chandigarh,India,2025-05-06 00:00:00
+C002,Rohan Mishra,rohan_mishra2@example.com,9823756669,Jaipur,Rajasthan,India,2025-12-13 00:00:00
+C003,Simran Singh,simran_singh3@example.com,9889254563,Ahmedabad,Gujarat,India,2025-08-05 00:00:00
+C004,Rahul Singh,rahul_singh4@example.com,9839345092,Noida,Uttar Pradesh,India,2025-04-30 00:00:00
+C005,Meera Sharma,meera_sharma5@example.com,9885329037,Kolkata,West Bengal,India,2025-04-12 00:00:00
+C006,Simran Mehta,simran_mehta6@example.com,9839587039,Ahmedabad,Gujarat,India,2025-08-18 00:00:00
+C007,Arjun Kapoor,arjun_kapoor7@example.com,9810872248,Hyderabad,Telangana,India,2026-01-24 00:00:00
+C008,Nisha Yadav,nisha_yadav8@example.com,9847295260,Lucknow,Uttar Pradesh,India,2025-03-21 00:00:00
+C009,Mohit Singh,mohit_singh9@example.com,9822448136,Jaipur,Rajasthan,India,2025-07-14 00:00:00
+C010,Pooja Saxena,pooja_saxena10@example.com,9856164955,Delhi,Delhi,India,2025-11-06 00:00:00
+C011,Priya Mishra,priya_mishra11@example.com,9871662963,Gurugram,Haryana,India,2025-10-02 00:00:00
+C012,Suresh Singh,suresh_singh12@example.com,9884093639,Delhi,Delhi,India,2025-05-31 00:00:00
+C013,Meera Chauhan,meera_chauhan13@example.com,9858537831,Chandigarh,Chandigarh,India,2025-10-23 00:00:00
+C014,Aman Sharma,aman_sharma14@example.com,9898753260,Jaipur,Rajasthan,India,2025-04-27 00:00:00
+C015,Aman Saxena,aman_saxena15@example.com,9841244663,Gurugram,Haryana,India,2026-03-20 00:00:00
+C016,Suresh Kumar,suresh_kumar16@example.com,9870855700,Delhi,Delhi,India,2025-11-22 00:00:00
+C017,Ananya Yadav,ananya_yadav17@example.com,9857683626,Mumbai,Maharashtra,India,2025-04-18 00:00:00
+C018,Arjun Mishra,arjun_mishra18@example.com,9896977837,Chandigarh,Chandigarh,India,2025-02-06 00:00:00
+C019,Ananya Joshi,ananya_joshi19@example.com,9842857966,Hyderabad,Telangana,India,2025-03-25 00:00:00
+C020,Suresh Kumar,suresh_kumar20@example.com,9895899313,Bengaluru,Karnataka,India,2025-12-19 00:00:00
+C021,Sneha Patel,sneha_patel21@example.com,9853524491,Kolkata,West Bengal,India,2026-03-08 00:00:00
+C022,Sneha Saxena,sneha_saxena22@example.com,9814308421,Noida,Uttar Pradesh,India,2026-02-17 00:00:00
+C023,Suresh Kumar,suresh_kumar23@example.com,9818883684,Mumbai,Maharashtra,India,2025-04-19 00:00:00
+C024,Mohit Gupta,mohit_gupta24@example.com,9897971488,Hyderabad,Telangana,India,2025-09-13 00:00:00
+C025,Karan Verma,karan_verma25@example.com,9845551614,Pune,Maharashtra,India,2025-03-13 00:00:00
+C026,Simran Joshi,simran_joshi26@example.com,9845264581,Jaipur,Rajasthan,India,2026-01-18 00:00:00
+C027,Nisha Chauhan,nisha_chauhan27@example.com,9888320463,Hyderabad,Telangana,India,2025-07-24 00:00:00
+C028,Sneha Verma,sneha_verma28@example.com,9878387461,Mumbai,Maharashtra,India,2025-09-10 00:00:00
+C029,Priya Saxena,priya_saxena29@example.com,9824716857,Delhi,Delhi,India,2025-03-20 00:00:00
+C030,Ananya Kapoor,ananya_kapoor30@example.com,9866661351,Chandigarh,Chandigarh,India,2025-11-02 00:00:00
+C031,Suresh Mehta,suresh_mehta31@example.com,9889978790,Delhi,Delhi,India,2025-08-28 00:00:00
+C032,Arjun Joshi,arjun_joshi32@example.com,9811540956,Kolkata,West Bengal,India,2025-12-15 00:00:00
+C033,Neha Patel,neha_patel33@example.com,9882070937,Ahmedabad,Gujarat,India,2026-01-20 00:00:00
+C034,Mohit Singh,mohit_singh34@example.com,9849392920,Gurugram,Haryana,India,2025-08-11 00:00:00
+C035,Karan Sharma,karan_sharma35@example.com,9845351479,Lucknow,Uttar Pradesh,India,2026-05-13 00:00:00
+C036,Ananya Joshi,ananya_joshi36@example.com,9824282218,Kolkata,West Bengal,India,2026-03-22 00:00:00
+C037,Kavya Saxena,kavya_saxena37@example.com,9895758349,Chandigarh,Chandigarh,India,2025-09-17 00:00:00
+C038,Vikas Verma,vikas_verma38@example.com,9860185867,Hyderabad,Telangana,India,2026-01-26 00:00:00
+C039,Simran Kapoor,simran_kapoor39@example.com,9881182864,Lucknow,Uttar Pradesh,India,2026-04-16 00:00:00
+C040,Meera Yadav,meera_yadav40@example.com,9875579548,Noida,Uttar Pradesh,India,2025-01-10 00:00:00
+C041,Pooja Chauhan,pooja_chauhan41@example.com,9851273847,Delhi,Delhi,India,2025-05-03 00:00:00
+C042,Sneha Chauhan,sneha_chauhan42@example.com,9886149359,Noida,Uttar Pradesh,India,2026-04-30 00:00:00
+C043,Aman Mishra,aman_mishra43@example.com,9875228535,Delhi,Delhi,India,2026-02-22 00:00:00
+C044,Simran Kapoor,simran_kapoor44@example.com,9826879290,Delhi,Delhi,India,2025-03-07 00:00:00
+C045,Isha Joshi,isha_joshi45@example.com,9832162965,Chandigarh,Chandigarh,India,2025-05-16 00:00:00
+C046,Meera Mehta,meera_mehta46@example.com,9838427073,Kolkata,West Bengal,India,2026-04-21 00:00:00
+C047,Vikas Mishra,vikas_mishra47@example.com,9851837852,Kolkata,West Bengal,India,2025-07-24 00:00:00
+C048,Pooja Agarwal,pooja_agarwal48@example.com,9879467853,Chandigarh,Chandigarh,India,2025-08-20 00:00:00
+C049,Sneha Gupta,sneha_gupta49@example.com,9818593410,Delhi,Delhi,India,2025-06-23 00:00:00
+C050,Aditya Joshi,aditya_joshi50@example.com,9840885476,Noida,Uttar Pradesh,India,2025-10-29 00:00:00
+C051,Rahul Singh,rahul_singh51@example.com,9894705205,Jaipur,Rajasthan,India,2025-01-31 00:00:00
+C052,Aman Chauhan,aman_chauhan52@example.com,9814216175,Jaipur,Rajasthan,India,2026-03-17 00:00:00
+C053,Aman Joshi,aman_joshi53@example.com,9841944441,Mumbai,Maharashtra,India,2025-05-23 00:00:00
+C054,Isha Gupta,isha_gupta54@example.com,9882374753,Chandigarh,Chandigarh,India,2025-03-09 00:00:00
+C055,Aditya Malhotra,aditya_malhotra55@example.com,9873440831,Ahmedabad,Gujarat,India,2025-05-05 00:00:00
+C056,Nisha Gupta,nisha_gupta56@example.com,9822660194,Bengaluru,Karnataka,India,2025-02-19 00:00:00
+C057,Nisha Yadav,nisha_yadav57@example.com,9866851760,Chandigarh,Chandigarh,India,2025-07-30 00:00:00
+C058,Priya Patel,priya_patel58@example.com,9897705310,Bengaluru,Karnataka,India,2025-11-27 00:00:00
+C059,Priya Mehta,priya_mehta59@example.com,9855540424,Delhi,Delhi,India,2026-02-14 00:00:00
+C060,Sneha Gupta,sneha_gupta60@example.com,9835529407,Delhi,Delhi,India,2025-10-02 00:00:00
+C061,Rohan Mehta,rohan_mehta61@example.com,9834627347,Bengaluru,Karnataka,India,2025-05-23 00:00:00
+C062,Sneha Saxena,sneha_saxena62@example.com,9820117988,Bengaluru,Karnataka,India,2025-08-15 00:00:00
+C063,Neha Sharma,neha_sharma63@example.com,9897529405,Kolkata,West Bengal,India,2025-10-04 00:00:00
+C064,Aman Chauhan,aman_chauhan64@example.com,9841726318,Noida,Uttar Pradesh,India,2025-03-27 00:00:00
+C065,Isha Agarwal,isha_agarwal65@example.com,9838688676,Pune,Maharashtra,India,2026-03-19 00:00:00
+C066,Priya Verma,priya_verma66@example.com,9860864911,Pune,Maharashtra,India,2025-01-02 00:00:00
+C067,Arjun Chauhan,arjun_chauhan67@example.com,9871070189,Pune,Maharashtra,India,2025-05-27 00:00:00
+C068,Simran Patel,simran_patel68@example.com,9875319931,Pune,Maharashtra,India,2025-03-21 00:00:00
+C069,Kavya Gupta,kavya_gupta69@example.com,9817849494,Jaipur,Rajasthan,India,2025-10-24 00:00:00
+C070,Simran Sharma,simran_sharma70@example.com,9852091325,Ahmedabad,Gujarat,India,2025-01-30 00:00:00
+C071,Aditya Agarwal,aditya_agarwal71@example.com,9877491435,Noida,Uttar Pradesh,India,2026-04-16 00:00:00
+C072,Ananya Sharma,ananya_sharma72@example.com,9878159587,Kolkata,West Bengal,India,2025-02-11 00:00:00
+C073,Aman Malhotra,aman_malhotra73@example.com,9819121552,Lucknow,Uttar Pradesh,India,2025-12-12 00:00:00
+C074,Suresh Singh,suresh_singh74@example.com,9886460539,Jaipur,Rajasthan,India,2025-05-07 00:00:00
+C075,Meera Sharma,meera_sharma75@example.com,9893131979,Hyderabad,Telangana,India,2025-02-11 00:00:00
+C076,Aditya Malhotra,aditya_malhotra76@example.com,9880166708,Pune,Maharashtra,India,2025-06-11 00:00:00
+C077,Vikas Patel,vikas_patel77@example.com,9852169044,Gurugram,Haryana,India,2025-05-03 00:00:00
+C078,Suresh Verma,suresh_verma78@example.com,9896637649,Gurugram,Haryana,India,2025-06-03 00:00:00
+C079,Mohit Chauhan,mohit_chauhan79@example.com,9819736572,Bengaluru,Karnataka,India,2025-01-05 00:00:00
+C080,Meera Malhotra,meera_malhotra80@example.com,9823419256,Bengaluru,Karnataka,India,2025-02-07 00:00:00
+C081,Vikas Joshi,vikas_joshi81@example.com,9845594597,Kolkata,West Bengal,India,2025-03-09 00:00:00
+C082,Aman Chauhan,aman_chauhan82@example.com,9842787299,Mumbai,Maharashtra,India,2025-07-09 00:00:00
+C083,Ananya Agarwal,ananya_agarwal83@example.com,9882909480,Gurugram,Haryana,India,2025-12-27 00:00:00
+C084,Meera Kapoor,meera_kapoor84@example.com,9897775215,Gurugram,Haryana,India,2025-09-28 00:00:00
+C085,Simran Kumar,simran_kumar85@example.com,9899038526,Noida,Uttar Pradesh,India,2025-02-23 00:00:00
+C086,Arjun Singh,arjun_singh86@example.com,9824366125,Lucknow,Uttar Pradesh,India,2026-01-16 00:00:00
+C087,Rohan Kumar,rohan_kumar87@example.com,9847816686,Kolkata,West Bengal,India,2025-11-06 00:00:00
+C088,Mohit Gupta,mohit_gupta88@example.com,9895125977,Jaipur,Rajasthan,India,2026-03-13 00:00:00
+C089,Raj Agarwal,raj_agarwal89@example.com,9843704923,Gurugram,Haryana,India,2026-04-09 00:00:00
+C090,Aman Patel,aman_patel90@example.com,9866851377,Noida,Uttar Pradesh,India,2026-03-01 00:00:00
+C091,Priya Sharma,priya_sharma91@example.com,9854769200,Gurugram,Haryana,India,2026-01-30 00:00:00
+C092,Arjun Verma,arjun_verma92@example.com,9869302158,Lucknow,Uttar Pradesh,India,2025-10-10 00:00:00
+C093,Nisha Joshi,nisha_joshi93@example.com,9811297845,Ahmedabad,Gujarat,India,2025-02-27 00:00:00
+C094,Rohan Joshi,rohan_joshi94@example.com,9814835614,Delhi,Delhi,India,2026-03-04 00:00:00
+C095,Aditya Joshi,aditya_joshi95@example.com,9829876811,Mumbai,Maharashtra,India,2025-08-09 00:00:00
+C096,Priya Kumar,priya_kumar96@example.com,9858942697,Lucknow,Uttar Pradesh,India,2026-04-06 00:00:00
+C097,Pooja Gupta,pooja_gupta97@example.com,9843491314,Noida,Uttar Pradesh,India,2025-12-08 00:00:00
+C098,Pooja Kapoor,pooja_kapoor98@example.com,9885146293,Delhi,Delhi,India,2026-03-29 00:00:00
+C099,Meera Mishra,meera_mishra99@example.com,9830743797,Pune,Maharashtra,India,2026-04-19 00:00:00
+C100,Ananya Kapoor,ananya_kapoor100@example.com,9833763566,Jaipur,Rajasthan,India,2026-03-28 00:00:00
