@@ -216,7 +216,7 @@ export default function Dashboard() {
                   outerRadius={90}
                   label
                 >
-                  {shipmentStatusData.map((entry, index) => (
+                  {shipmentStatusData.map((_, index) => (
                     <Cell
                       key={`cell-${index}`}
                       fill={
